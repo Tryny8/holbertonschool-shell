@@ -13,7 +13,7 @@ Owner: no permission at all
 Group: no permission at all
 Other users: all the permissions
 Exercice 9: Write a script that sets the mode of the file hello to this: -rwxr-x-wx
-Exercice 10: 
+Exercice 10: Write a script that sets the mode of the file hello the same as olleh’s mode.
 Exercice 11:
 Exercice 12:
 Exercice 13:
