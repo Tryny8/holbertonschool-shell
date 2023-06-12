@@ -3,9 +3,9 @@ Un fichier README.md, à la racine du dossier du projet, décrivant ce que fait 
 Exercice 0: Create a script that switches the current user to the user betty
 Exercice 1: Write a script that prints the effective username of the current user.
 Exercice 2: Write a script that prints all the groups the current user is part of.
-Exercice 3: 
-Write a script that changes the owner of the file hello to the user betty.Exercice 4:
-Exercice 5:
+Exercice 3: Write a script that changes the owner of the file hello to the user betty.
+Exercice 4: Write a script that creates an empty file called hello.
+Exercice 5: 
 Exercice 6:
 Exercice 7:
 Exercice 8:
