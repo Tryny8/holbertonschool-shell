@@ -12,8 +12,8 @@ Exercice 8: Write a script that sets the permission to the file hello as follows
 Owner: no permission at all
 Group: no permission at all
 Other users: all the permissions
-Exercice 9: 
-Exercice 10:
+Exercice 9: Write a script that sets the mode of the file hello to this: -rwxr-x-wx
+Exercice 10: 
 Exercice 11:
 Exercice 12:
 Exercice 13:
