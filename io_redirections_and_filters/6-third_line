@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq -y 3 /etc/passwd
+uniq -u 3 iacta
