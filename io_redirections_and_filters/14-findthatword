@@ -1,2 +1,2 @@
 #!/bin/bash
-find /root -lname '/etc/passwd'
+find /etc/passwd -lname '/root'
