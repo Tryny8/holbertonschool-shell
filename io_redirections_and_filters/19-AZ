@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c "A" | paste -sd 'Z' -
+echo "input" | tr 'Ac' 'Ze'
